@@ -102,7 +102,22 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
+##  Screen shots
+<img width="300"  alt="Screenshot_1781333349" src="https://github.com/user-attachments/assets/dca03121-386c-4a53-a851-0f635f5797f3" />
+<img width="300"  alt="Screenshot_1781333353" src="https://github.com/user-attachments/assets/2fec9492-cd03-4c44-8eee-bd14eb21f4ea" />
+<img width="300" alt="Screenshot_1781333358" src="https://github.com/user-attachments/assets/d23d7ffc-b9bf-472a-8f4b-7b72d446fc42" />
+<img width="300" alt="Screenshot_1781333365" src="https://github.com/user-attachments/assets/b19e366a-0b8f-46ff-b1a2-53ae8814dc5c" />
+<img width="300" alt="Screenshot_1781333369" src="https://github.com/user-attachments/assets/d981d86a-f4a2-4a78-b9a6-3323785f34f8" />
+<img width="300"  alt="Screenshot_1781333371" src="https://github.com/user-attachments/assets/bd725a4e-f12d-46f5-a921-d073cf276831" />
+<img width="300" alt="Screenshot_1781333376" src="https://github.com/user-attachments/assets/a04f221b-a004-4829-922d-458111bd84c5" />
+<img width="300"  alt="Screenshot_1781333386" src="https://github.com/user-attachments/assets/a4594870-409c-4685-92d6-e026509e2f06" />
+<img width="300" alt="Screenshot_1781333401" src="https://github.com/user-attachments/assets/03a3dd6e-6c69-4ac2-aa80-0ce50530f893" />
 
-## 📄 License
-This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
